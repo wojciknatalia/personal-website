@@ -1,0 +1,18 @@
+.section {
+    display: flex;
+    padding: 5px;
+    justify-content: space-evenly;
+}
+
+.left {
+    /*position: sticky;*/
+    background-image: url("examplePhoto.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 50vw;
+}
+
+.right {
+    height: 100vh;
+    width: 40vw;
+}
